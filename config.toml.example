@@ -1,0 +1,2 @@
+amqp_address = "amqp://guest:guest@localhost:5672/%2f"
+queue_name = "example_task_queue"
